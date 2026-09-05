@@ -1,0 +1,14 @@
+{
+  "name": "bot-yougroup",
+  "version": "1.0.0",
+  "description": "Bot WA YouGroup — Kumpulan Grup WA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "express": "^4.19.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
